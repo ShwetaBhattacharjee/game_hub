@@ -32,10 +32,10 @@ export default {
 
 
 
-npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
-npm i axios
-npm i react-icons@4.1.0
-git init
-git add .
-git commit -m "initial"
-npm i react-icons@4.7.1
+1.npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+2.npm i axios
+3.npm i react-icons@4.1.0
+4.git init
+5.git add .
+6.git commit -m "initial"
+7.npm i react-icons@4.7.1
