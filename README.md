@@ -28,3 +28,14 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+
+
+1.npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+2.npm i axios
+3.npm i react-icons@4.1.0
+4.git init
+5.git add .
+6.git commit -m "initial"
+7.npm i react-icons@4.7.1
