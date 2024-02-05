@@ -39,3 +39,10 @@ export default {
 5.git add .
 6.git commit -m "initial"
 7.npm i react-icons@4.7.1
+
+
+Clone this repository to your local machine.
+Run npm install to install the required dependencies.
+Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first.
+Add the API key to src/services/api-client.ts
+Run npm run dev to start the web server.
